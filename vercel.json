@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "./images/favicon/site.html" }
+    { "source": "/(.*)", "destination": "https://cold-service.vercel.app/images/favicon/site.html" }
   ]
 }
